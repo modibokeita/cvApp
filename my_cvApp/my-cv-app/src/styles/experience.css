@@ -1,0 +1,12 @@
+.experience{
+    border: 1px solid #333;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 50%;
+   margin-left: 350px;
+   border-top: none;
+
+}

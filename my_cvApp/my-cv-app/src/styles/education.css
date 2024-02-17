@@ -1,0 +1,23 @@
+.education{
+    border: 1px solid #333;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 50%;
+   margin-left: 350px;
+   border-top: none;
+   border-bottom: none;
+
+}
+button{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-size: 16px;
+    background: green;
+}
+button:hover{
+    background: rgb(26, 224, 178);
+}
